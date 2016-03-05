@@ -22,6 +22,7 @@ cad = "cadena" * 3
 
 cad1 = "cadena 1" 
 cad2 = "cadena 2"
+cad = "cadena "
 
 cadCon = cad1 + cad2
 
